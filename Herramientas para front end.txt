@@ -7,6 +7,7 @@ https://webdev.yay.boo
 https://bechnokid.neocities.org/resources/status-cafe/feed-reader
 https://github.com/IanLunn/Hover ---> https://ianlunn.github.io/Hover
 https://www.oldbookillustrations.com
+https://reactbits.dev/
 
 
 Fonts:
@@ -19,3 +20,6 @@ https://uncut.wtf
 
 Cursores:
 https://www.rw-designer.com/cursor-library
+
+
+
